@@ -1,0 +1,8 @@
+xengpuminer
+difficulty.txt
+build/
+blockchain.db
+blockchain.db-journal
+hash_rates/
+.idea
+logs/
